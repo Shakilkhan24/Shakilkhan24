@@ -10,6 +10,7 @@ C++ for DATA STRUCTURES AND ALGORITHM, OOP and COMPUTER SCIENCE COURSE STUFFS
 - -- Numpy
 - -- Panda
 - -- Matplotlib
+- -- Seaborn
 - -- Continuing courses for ML algorithms 
 - -- Statistics, probability along with combinatorics, Linear algebra also continuing 
 
