@@ -11,7 +11,8 @@ C++ for DATA STRUCTURES AND ALGORITHM, OOP and COMPUTER SCIENCE COURSE STUFFS
 - -- Panda
 - -- Matplotlib
 - -- Seaborn
-- -- Continuing courses for ML algorithms 
+- -- ML algorithms (scikit-learn)
+- -- Continuing on Deep learning
 - -- Statistics, probability along with combinatorics, Linear algebra also continuing 
 
 
