@@ -1,3 +1,4 @@
+---
 
 <h1 align="center">👋 Hi, I'm Shakil Khan</h1>  
 <p align="center">🎓 <b>Computer Science and Engineering | RUET</b></p>  
@@ -19,4 +20,6 @@
 
 ### 📫 Connect with Me  
 🔗 **GitHub:** [Shakilkhan24](https://github.com/Shakilkhan24/Shakilkhan24)  
+🔗 **LinkedIn:** [Shakil Khan](https://www.linkedin.com/in/shakil-khan-b7389219b/)  
+
 ---
